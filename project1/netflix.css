@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-image: url(./netflix1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+.box1{
+    border-radius: 5px;
+    height: 700px;
+    width: 450px;
+    background-color: rgba(0, 0, 0, 0.534);
+    border: solid 1px black ;
+    margin: 0 auto;
+
+}
+.rr{
+    padding-top: 130px;
+}
+h1{
+    padding: 40px;
+    color: white;
+}
+input{
+    border:solid 2px white ;
+    padding: 15px;
+    width: 250px;
+    height: 15px;
+    border-radius: 5px;
+    margin-left: 70px;
+}
+button{
+    border-radius: 5px;
+    padding: 15px;
+    width: 285px;
+    height: 50px;
+    margin-left: 70px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+h4{
+    color: white;
+    margin-left: 200px;
+}
+.sing{ border-radius: 5px;
+    padding: 15px;
+    width: 285px;
+    height: 50px;
+    margin-left: 70px;
+    background-color: rgba(255, 255, 255, 0.418)
+
+}
+.box{
+    color: white;
+    margin-left: 20px;
+}
+h3{
+   text-align: center;
+   color: white;
+}
+.new{
+    color: white;
+    margin-top: 20px;
+    margin-left: 75px;
+}
+.old{
+    color: white;
+    margin-top: -20px;
+    margin-left:45px;
+}
+.hs{
+    color: rgba(255, 255, 255, 0.822);
+     margin-left: 75px;
+}
+a{
+    color: blue;
+    text-decoration: none;
+    margin-left: 227px;
+    position: absolute;
+  
+}
+.hs span{
+    color: rgb(20, 62, 202);
+
+}
+  
+   
